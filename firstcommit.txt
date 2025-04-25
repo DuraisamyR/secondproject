@@ -1,2 +1,3 @@
 Updated the file - git fetch and merge
 Updated to check - git pull command
+cherry pick
